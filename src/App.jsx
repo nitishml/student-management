@@ -31,8 +31,7 @@ function App() {
 
   return (
     <div>
-      {/* Header */}
-      <header className="header" onCli>
+      \      <header className="header" onCli>
         <h1>Student Management Portal</h1>
 
         <nav>
@@ -43,7 +42,6 @@ function App() {
         </nav>
       </header>
 
-      {/* Hero Section */}
       <section className="hero">
         <h2>Welcome to Student Portal</h2>
         <p>
@@ -51,7 +49,6 @@ function App() {
         </p>
       </section>
 
-      {/* Cards */}
       <section className="cards">
         <div className="card">
           <h3>Students</h3>
@@ -69,7 +66,6 @@ function App() {
         </div>
       </section>
 
-      {/* Form Section */}
       <section className="form-container">
         <h2>Add Student</h2>
         <input
