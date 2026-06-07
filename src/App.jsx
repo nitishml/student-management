@@ -31,8 +31,8 @@ function App() {
 
   return (
     <div>
-      \      <header className="header" onCli>
-        <h1>Student Management Portal</h1>
+      <header className="header" onCli>
+        <h1>RCM Students</h1>
 
         <nav>
           <a href="#home">Home</a>
